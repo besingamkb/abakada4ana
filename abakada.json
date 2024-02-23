@@ -1,0 +1,21 @@
+{
+    "vowels": ["A", "E", "I", "O", "U"],
+    "consonants": {
+      "B": ["Ba", "Be", "Bi", "Bo", "Bu"],
+      "D": ["Da", "De", "Di", "Do", "Du"],
+      "G": ["Ga", "Ge", "Gi", "Go", "Gu"],
+      "H": ["Ha", "He", "Hi", "Ho", "Hu"],
+      "K": ["Ka", "Ke", "Ki", "Ko", "Ku"],
+      "L": ["La", "Le", "Li", "Lo", "Lu"],
+      "M": ["Ma", "Me", "Mi", "Mo", "Mu"],
+      "N": ["Na", "Ne", "Ni", "No", "Nu"],
+      "Ng": ["Nga", "Nge", "Ngi", "Ngo", "Ngu"],
+      "P": ["Pa", "Pe", "Pi", "Po", "Pu"],
+      "R": ["Ra", "Re", "Ri", "Ro", "Ru"],
+      "S": ["Sa", "Se", "Si", "So", "Su"],
+      "T": ["Ta", "Te", "Ti", "To", "Tu"],
+      "W": ["Wa", "We", "Wi", "Wo", "Wu"],
+      "Y": ["Ya", "Ye", "Yi", "Yo", "Yu"]
+    }
+  }
+  
